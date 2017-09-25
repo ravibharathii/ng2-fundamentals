@@ -4,7 +4,8 @@
 import {Component} from '@angular/core'
 
 @Component({
-    selector:'nav-bar',
+    selector:'navbar',
+    templateUrl:'app/events/nav/navbar.component.html'
 
 })
 export class NavbarComponent{
